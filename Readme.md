@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Шишкин](https://up.htmlacademy.ru/javascript/21/user/1106885).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Яковенко](https://up.htmlacademy.ru/javascript/21/user/376639).
 
 ---
 
